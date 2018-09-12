@@ -9,9 +9,7 @@ use Illuminate\Foundation\Testing\DatabaseMigrations;
 class ExampleTest extends DuskTestCase
 {
     /**
-     * A Dusk test example.
-     *
-     * @return void
+     * @throws \Throwable
      */
     public function testExample()
     {
